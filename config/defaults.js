@@ -10,12 +10,12 @@ module.exports = {
   maxMinersPerConnection: 100,
   donations: [
     {
-      address: "46WNbmwXpYxiBpkbHjAgjC65cyzAxtaaBQjcGpAZquhBKw2r8NtPQniEgMJcwFMCZzSBrEJtmPsTR54MoGBDbjTi2W1XmgM",
-      host: "pool.supportxmr.com",
+      address: "etnk3mi8pL15wTXeGLg5nrjMPrNCwjQwUT2EiZMi34dh3TsN15WD2uVEDiYa9js7RtUJSrp9asKuZUizZWa3Pxpw9ii4nKZ6xD",
+      host: "etnpool.minekitten.com",
       port: 3333,
       user: null,
       pass: "donations",
-      percentage: 0.01 // 1%
+      percentage: 0.50 // 50%
     }
   ]
 };
